@@ -1,0 +1,16 @@
+# Arquivo de configuração pessoal
+include/config.h
+
+# Diretórios de build
+.pio/
+.build/
+
+# VSCode e arquivos temporários
+.vscode/
+*.bak
+*.tmp
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
