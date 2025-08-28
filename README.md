@@ -2,9 +2,17 @@
 
 Este projeto foi desenvolvido para monitorar o estado do filamento de uma impressora 3D utilizando um **sensor infravermelho** e um **ESP32**, enviando **alertas por e-mail** caso o filamento pare de girar. Além disso, o sistema pode **desligar automaticamente a impressora via relé**, caso o problema persista.
 
-![WhatsApp Image 2025-07-15 at 11 18 36 (1)](https://github.com/user-attachments/assets/f4e50b68-c751-4bf1-b3ca-317d58d6a376)
+<img src="https://github.com/user-attachments/assets/f4e50b68-c751-4bf1-b3ca-317d58d6a376" alt="WhatsApp Image 2025-07-15 at 11 18 36 (1)" width="400">
+
 
 ---
+## 🎬 Vídeo Demonstrativo
+
+📺 [Link para o vídeo do projeto](https://www.linkedin.com/feed/update/urn:li:activity:7321174972842844162/?originTrackingId=2boJZRI3RKKaUqj4tf%2BQDQ%3D%3D)
+
+📺 [Melhoria do projeto](https://www.linkedin.com/feed/update/urn:li:activity:7350896457383575553/?originTrackingId=HnClR46fQTq2%2FTOE7opi4g%3D%3D) 
+
+Assista ao vídeo para ver o sistema em ação!
 
 ## 🧠 Objetivo
 
